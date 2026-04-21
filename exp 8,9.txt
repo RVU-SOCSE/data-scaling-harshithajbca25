@@ -1,0 +1,5 @@
+Write a Python program using Pandas to calculate and display central tendencies and
+dispersion measures for the data from 1experience.csv
+
+Analyze the distribution of employee experience using the provided CSV file
+(1experience.csv).

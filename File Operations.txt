@@ -1,0 +1,6 @@
+File Operations: 
+Create a shell script that performs file operations, such as creating, copying, moving, and deleting files using
+commands like touch, cp, mv, and rm. 
+
+Include error handling to
+manage file operations gracefully.

@@ -1,0 +1,5 @@
+Write a Python program that creates a Pandas DataFrame from scratch using a dictionary. Display the DataFrame and then add a new column with calculated values.
+
+Write a Python program that creates a Pandas DataFrame from scratch using a dictionary. Display the DataFrame and then add a new column with calculated values.
+
+Write a Python program to load a CSV file (Mcd) into a Pandas DataFrame,identify missing values, and fill them with a specific value (e.g., the mean of a column).

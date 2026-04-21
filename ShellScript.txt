@@ -1,0 +1,6 @@
+Basic Shell Script for Job Scheduling: 
+
+Develop a shell script that
+takes a list of commands and executes them with a specified delay using the sleep command. 
+
+Demonstrate job scheduling in the shell.

@@ -1,0 +1,5 @@
+File Permissions: Write a shell script to modify file permissions
+and ownership using chmod and chown. 
+
+Include user input for the
+filename and desired permissions, and display the new file permissions.

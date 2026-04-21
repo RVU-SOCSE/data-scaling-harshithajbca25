@@ -1,0 +1,5 @@
+Write a Python program that reads a CSV file containing years of experience and performs the following operations:
+1. Display the content of the file.
+2. Find the total number of rows and columns.
+3. Calculate the length of the dataframe.
+4. Display the first 2 rows only.

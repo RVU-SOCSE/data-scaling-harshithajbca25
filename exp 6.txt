@@ -1,0 +1,3 @@
+Write a Python program that creates a NumPy array, performs basic array manipulations (such as reshaping and indexing), and calculates the sum of the elements.
+
+Write a Python program that performs basic matrix operations using NumPy,including addition, multiplication, and transposing a matrix.

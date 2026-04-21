@@ -1,0 +1,5 @@
+a)      
+Program to perform
+various operations on lists (insert, delete, find, etc.)
+
+b)      Program to merge two dictionaries

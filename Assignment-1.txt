@@ -1,0 +1,4 @@
+Basic Programming and Syntax:
+A. Simple calculator
+B. Temperature converter (Celsius to Fahrenheit and vice versa) 
+C. Program to find the largest of three numbers

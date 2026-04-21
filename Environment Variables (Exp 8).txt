@@ -1,0 +1,3 @@
+Environment Variables: 
+Create a shell script that sets, exports,and displays environment variables. 
+Use printenv and env to show the current environment settings.
